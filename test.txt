@@ -1,1 +1,1 @@
-city: trincomalee
+city:trincomalee
